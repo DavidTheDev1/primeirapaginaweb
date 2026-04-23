@@ -1,6 +1,14 @@
 body {
-    background-color: #fc0000;
+    background-color: #ffffff;
     font-family: Arial, sans-serif;
     color: #333;
     margin: 20px;
+}
+h1 {
+    color: #6167af;
+    text-align: center;
+}
+h2 {
+    color: #4b90a1;
+    text-align: center;
 }
